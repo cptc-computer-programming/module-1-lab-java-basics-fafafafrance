@@ -22,26 +22,26 @@ public class SoccerApp {
 
     // TODO: Print EXACTLY one line using Messages.TITLE
     public static void printTitle() {
-        // Your code here
+        System.out.println(Messages.TITLE);
     }
 
     // TODO: Print EXACTLY one line using Messages.KICKOFF
     public static void printKickoff() {
-        // Your code here
+        System.out.println(Messages.KICKOFF);
     }
 
     // TODO: Print EXACTLY one line using Messages.GOAL
     public static void printGoal() {
-        // Your code here
+        System.out.println(Messages.GOAL);
     }
 
     // TODO: Print EXACTLY one line using Messages.HALFTIME
     public static void printHalftime() {
-        // Your code here
+        System.out.println(Messages.HALFTIME);
     }
 
     // TODO: Print EXACTLY one line using Messages.FULLTIME
     public static void printFulltime() {
-        // Your code here
+        System.out.println(Messages.FULLTIME);
     }
 }

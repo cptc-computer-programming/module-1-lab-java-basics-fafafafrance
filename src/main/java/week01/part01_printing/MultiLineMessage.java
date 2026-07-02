@@ -13,6 +13,7 @@ public class MultiLineMessage {
     // - water bottle
     // - notebook
     public static void printChecklist() {
-        // Your code here
+        System.out.println("Checklist:");
+        System.out.println
     }
 }
